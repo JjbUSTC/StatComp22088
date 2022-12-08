@@ -1,0 +1,17 @@
+Package: StatComp22088
+Type: Package
+Title: Final assignment of 22088
+Version: 1.0
+Date: 2022-12-07
+Author: 22088
+Maintainer: 22088 <one@mail.ustc.edu.cn>
+Description: Several R and Rcpp functions for parameters'estimation of Functional Cox Model and Machine learning.
+License: GPL (>= 2)
+Imports: Rcpp, RcppArmadillo, survival, e1071, nnet, stats, pROC, class, randomForest
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.2.2
+URL: http://github.com/JjbUSTC/StatComp22088
+BugReports: http://github.com/JjbUSTC/StatComp22088/issues
+Encoding: UTF-8

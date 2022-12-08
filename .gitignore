@@ -1,0 +1,6 @@
+/doc/
+/Meta/
+.Rproj.user
+src/RcppExports.o
+src/myfun_C.o
+src/StatComp22088.dll
